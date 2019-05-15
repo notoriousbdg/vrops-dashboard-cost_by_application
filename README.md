@@ -9,7 +9,7 @@ View application costs per VM using the new Application Costing feature in [vRea
 ## Installation
 1. Import the view at `Dashboards` / `Views` / `Import...`  
 ![Import View](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-cost_by_application/master/Import_View.png)
-2. Click `Browse...` then select the file named [View - Application Cost.zip](https://github.com/notoriousbdg/vrops-dashboard-cost_by_application/raw/master/View%20-%20Application%20Cost.zip)
+2. Click `Browse...` then select the file named [View - Cost per VM.zip](https://github.com/notoriousbdg/vrops-dashboard-cost_by_application/raw/master/View%20-%20Cost%20per%20VM.zip)
 3. Import the dashboard at `Dashboards` / `Actions` / `Manage Dashboards` / `Import Dashboards`  
 ![Import Dashboard](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-cost_by_application/master/Import_Dashboard.png)
 4. Click `Browse...` then select the file named [Dashboard - Cost by Application.zip](https://github.com/notoriousbdg/vrops-dashboard-cost_by_application/raw/master/Dashboard%20-%20Cost%20by%20Application.zip)
