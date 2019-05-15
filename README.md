@@ -1,7 +1,7 @@
 # Cost by Application Dashboard for vRealize Operations 7.0 and 7.5
 ---------
 
-View application costs per VM using the new Application Costing feature in [vRealize Operations 7.0](https://www.vmware.com/products/vrealize-operations.html).
+View application costs per VM using the new Application Costing feature in [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html).
 
 ![Cost by Application Dashboard](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-cost_by_application/master/Dashboard.png)
 
